@@ -6,6 +6,7 @@
    <UUID>1a821f2f-a599-4037-90f5-115814f128eb</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\motvo\Katalon Studio\TestJenkins\TestJenkins.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
